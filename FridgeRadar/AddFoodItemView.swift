@@ -1,8 +1,8 @@
 //
 //  AddFoodItemView.swift
-//  FirstApp
+//  FridgeRadarApp
 //
-//  Created by 114-2Student03 on 2026/3/9.
+//  Created by Patrick on 2026/3/9.
 //
 
 import SwiftUI
